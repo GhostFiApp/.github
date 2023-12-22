@@ -20,7 +20,7 @@ As **[GhostFi.xyz](https://app.ghostfi.xyz/)**'s aim is to create a virtuous cir
 ### 🔗 Links:
 
 - ***App***: https://app.ghostfi.xyz/
-- ***Contract***: https://sepolia.explorer.mode.network/0x
+- ***Contract***: https://sepolia.explorer.mode.network/address/0x99110d2686c7a5C656505e98b6935D40f5c9Aa94
 
 ### ⚙️ Code:
 
