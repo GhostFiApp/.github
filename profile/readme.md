@@ -31,5 +31,6 @@ As **[GhostFi.xyz](https://app.ghostfi.xyz/)**'s aim is to create a virtuous cir
 
 - App: [app.ghostfi.xyz](https://app.ghostfi.xyz/)
 - Contract: [0x99110d2686c7a5C656505e98b6935D40f5c9Aa94](https://sepolia.explorer.mode.network/address/0x99110d2686c7a5C656505e98b6935D40f5c9Aa94)
+- Contract w/ SFS: [0x55aDDBa5e1DA9491978364c601550dD2884b604A](https://sepolia.explorer.mode.network/address/0x55aDDBa5e1DA9491978364c601550dD2884b604A)
 - Front: [github.com/GhostFiApp/app](https://github.com/GhostFiApp/app)
 - Back: [github.com/GhostFiApp/contracts](https://github.com/GhostFiApp/contracts/blob/main/ghostfi.sol)
