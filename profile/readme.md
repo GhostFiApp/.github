@@ -1,5 +1,7 @@
 # 👻 GhostFi.xyz
 
+![Ghostfi.xyz](https://i.ibb.co/dJTBMP8/ban.png)
+
 This project was built for the [Mode DeFi Degen Hack](https://www.mode.network/hackathon) by [@xtycoon](https://github.com/xtycoonfi).
 
 ```
@@ -17,12 +19,17 @@ The price of **$GHOST** will mimic the quality of the content provided by the cr
 
 As **[GhostFi.xyz](https://app.ghostfi.xyz/)**'s aim is to create a virtuous circle of creativity, royalties are set up for both the creator and the creator's current **$GHOST** holders. Each time a **$GHOST** is bought or sold, in addition to the transaction price, a fee is charged to the buyer or seller to pay the royalties. This means that there is no artificial inflation of demand or prices for **$GHOST**s, as royalty payments are guaranteed by actual fees.
 
-### 🔗 Links:
+### Try it out 👇
 
-- ***App***: https://app.ghostfi.xyz/
-- ***Contract***: https://sepolia.explorer.mode.network/address/0x99110d2686c7a5C656505e98b6935D40f5c9Aa94
+1. Bridge Sepolia ETH on [bridge.mode.network](https://bridge.mode.network/).
+2. Go to [app.ghostfi.xyz](https://app.ghostfi.xyz/).
+3. Connect your wallet.
+4. Create your account.
+5. Trade **$GHOST**.
 
-### ⚙️ Code:
+### 🔗 Links: 
 
-- ***App***: https://github.com/GhostFiApp/app
-- ***Contract***: https://github.com/GhostFiApp/contracts
+- App: [app.ghostfi.xyz](https://app.ghostfi.xyz/)
+- Contract: [0x99110d2686c7a5C656505e98b6935D40f5c9Aa94](https://sepolia.explorer.mode.network/address/0x99110d2686c7a5C656505e98b6935D40f5c9Aa94)
+- Front: [github.com/GhostFiApp/app](https://github.com/GhostFiApp/app)
+- Back: [github.com/GhostFiApp/contracts](https://github.com/GhostFiApp/contracts/blob/main/ghostfi.sol)
